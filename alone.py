@@ -1,5 +1,4 @@
-# Encoded By : MAHADI HASAN AFRIDI
-# Encryption : Py3 Marshal
+# Encoded By : DEMON-K1NG
 # Py3 Version : 3.11
 
 import marshal
